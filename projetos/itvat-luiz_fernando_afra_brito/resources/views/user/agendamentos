@@ -1,0 +1,6 @@
+@extends('app')
+
+@section('content')
+
+akd;afk;slfkd
+@endsection('content')
