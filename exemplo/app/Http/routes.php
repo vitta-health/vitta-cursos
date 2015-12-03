@@ -15,5 +15,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/autores', 		'AutoresController@index');
-Route::get('/autores/{id}', 'AutoresController@show');
+Route::resource('/autores', 'AutoresController');
+
+// Route::get('/autores', 			'AutoresController@index');
+// Route::get('/autores/{id}', 	'AutoresController@show');
+// Route::get('/autores/create',	'AutoresController@create');

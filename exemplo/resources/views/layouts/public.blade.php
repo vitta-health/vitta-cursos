@@ -2,6 +2,7 @@
 <html lang="pt-BR">
 <head>
 	<title>@yield('title')</title>
+	<meta name="csrf-token" content="{{ csrf_token() }}">
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
