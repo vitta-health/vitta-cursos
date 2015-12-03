@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/autores', 		'AutoresController@index');
+Route::get('/autores/{id}', 'AutoresController@show');
