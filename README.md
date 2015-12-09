@@ -16,7 +16,7 @@ Selecione o branch de acordo com seu curso e adicione seu nome na lista de prese
 
 ### Web App Like a Boss
 
-![WebApp Like A Boss](/imgs/webapp-like-a-boss.php "WebApp Like A Boss")
+![WebApp Like A Boss](https://github.com/vitta-health/vitta-cursos/blob/master/imgs/webapp-like-a-boss.png "WebApp Like A Boss")
 
 [WebApp UFU 2015-2](https://github.com/vitta-health/vitta-cursos/tree/webapp-ufu-2015-2)
 
