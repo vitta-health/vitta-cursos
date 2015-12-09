@@ -6,9 +6,11 @@ Este é o repositório da VITTA de todos os cursos que já realizamos! Para aces
 
 Acompanhe este repositório para mais informações sobre os próximos cursos e acompanhe o material!
 
-Você que é ou quer ser estudante, entre em contato com a nossa rede de alunos no nosso grupo [VITTA Cursos no Facebook](https://www.facebook.com/groups/480387735467314/481360138703407/).
+Você que é ou quer ser estudante, entre em contato com a nossa rede de alunos no nosso grupo:
 
-Para mais informações sobre a VITTA em questão a processos seletivos e envie um e-mail para [mailto:filipeforattini1@gmail.com](mailto:filipeforattini1@gmail.com)
+[VITTA Cursos no Facebook](https://www.facebook.com/groups/480387735467314/481360138703407/).
+
+Para mais informações sobre a VITTA em questão a processos seletivos e envie um e-mail para [filipeforattini1@gmail.com](mailto:filipeforattini1@gmail.com)
 
 ## Estudantes
 
