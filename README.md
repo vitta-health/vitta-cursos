@@ -12,7 +12,7 @@ Você que é ou quer ser estudante, entre em contato com a nossa rede de alunos 
 
 Para mais informações sobre a VITTA em questão a processos seletivos e envie um e-mail para [filipeforattini1@gmail.com](mailto:filipeforattini1@gmail.com)
 
-## Estudantes
+## Nossos Estudantes:
 
 [Hall of Fame dos Estudantes](https://github.com/vitta-health/vitta-cursos/network/members)
 
