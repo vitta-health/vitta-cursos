@@ -4,28 +4,35 @@
 
 Nosso objetivo é que você construa seu primeiro web app em 6 aulas! Você topa o desafio? Nós também!
 
-## Comunicação:
-Para tirar dúvidas ou fazer perguntas sobre o conteúdo escreva aqui no nosso grupo [VITTA Cursos no Facebook](https://www.facebook.com/groups/480387735467314/481360138703407/).
-Ou envie um e-mail para filipeforattini1(a)gmail.com!
+Esperiemnte usar nosso grupo [VITTA Cursos no Facebook](https://www.facebook.com/groups/480387735467314/481360138703407/) para tirar suas dúvidas e compartilhar seus insights!
+
+Para qualquer tópico envie um e-mail para [filipeforattini1@gmail.com](mailto:filipeforattini1@gmail.com)!
 
 ## Aulas:
-
 Horário: 17h30 ~ 19h00
 
-24/11/2015 - Módulo 1
+##### 24/11/2015 - Módulo 1
+Estrutura de um WebApp, GIT, Dependências
 
-26/11/2015 - Módulo 1
+##### 26/11/2015 - Módulo 1
+Estrutura do Laravel, Migrations, Seeders
 
-01/12/2015 - Módulo 2
+##### 01/12/2015 - Módulo 2
+Controllers, Views
 
-03/12/2015 - Módulo 2
+##### 03/12/2015 - Módulo 2
+Controllers, Views
 
-08/12/2015 - Módulo 3
+##### 08/12/2015 - Módulo 3
+Autenticação, Autorização e Relações
 
-10/12/2015 - Módulo 3
+##### 10/12/2015 - Módulo 3
+Apresentação dos Projetos
 
+## Frequência do Estudante
 
-[Estudantes ativos](https://github.com/vitta-health/vitta-cursos/network/members)
-(confirmaram presença usando pull request!)
+Acompanhe sua frequência aqui nos [sub diretórios](https://github.com/vitta-health/vitta-cursos/tree/webapp-ufu-2015-2/presenca)
 
-Não se esqueça de assinar a lista de presença!
+Não se esqueça que a lista de presença é assinada com pull requests!
+
+[Lista de Estudantes Ativos](https://github.com/vitta-health/vitta-cursos/network/members)
