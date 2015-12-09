@@ -13,11 +13,17 @@ Ou envie um e-mail para filipeforattini1(a)gmail.com!
 Horário: 17h30 ~ 19h00
 
 24/11/2015 - Módulo 1
+
 26/11/2015 - Módulo 1
+
 01/12/2015 - Módulo 2
+
 03/12/2015 - Módulo 2
+
 08/12/2015 - Módulo 3
+
 10/12/2015 - Módulo 3
+
 
 [Estudantes ativos](https://github.com/vitta-health/vitta-cursos/network/members)
 (confirmaram presença usando pull request!)
