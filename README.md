@@ -8,6 +8,10 @@ Esperiemnte usar nosso grupo [VITTA Cursos no Facebook](https://www.facebook.com
 
 Para qualquer tópico envie um e-mail para [filipeforattini1@gmail.com](mailto:filipeforattini1@gmail.com)!
 
+## Material:
+
+O material da aula se encontra aqui no [sub diretório /material](https://github.com/vitta-health/vitta-cursos/tree/webapp-ufu-2015-2/material)
+
 ## Aulas:
 Horário: 17h30 ~ 19h00
 
@@ -31,7 +35,7 @@ Apresentação dos Projetos
 
 ## Frequência do Estudante
 
-Acompanhe sua frequência aqui nos [sub diretórios](https://github.com/vitta-health/vitta-cursos/tree/webapp-ufu-2015-2/presenca)
+Acompanhe sua frequência aqui nos [sub diretórios das aulas](https://github.com/vitta-health/vitta-cursos/tree/webapp-ufu-2015-2/presenca)
 
 Não se esqueça que a lista de presença é assinada com pull requests!
 
