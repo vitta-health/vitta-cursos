@@ -33,7 +33,7 @@ Autenticação, Autorização e Relações
 ##### 10/12/2015 - Módulo 3
 Apresentação dos Projetos
 
-## Frequência do Estudante
+## Frequência do Estudante:
 
 Acompanhe sua frequência aqui nos [sub diretórios das aulas](https://github.com/vitta-health/vitta-cursos/tree/webapp-ufu-2015-2/presenca)
 
