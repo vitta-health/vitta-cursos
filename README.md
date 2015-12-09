@@ -4,7 +4,7 @@
 
 Nosso objetivo é que você construa seu primeiro web app em 6 aulas! Você topa o desafio? Nós também!
 
-Esperiemnte usar nosso grupo [VITTA Cursos no Facebook](https://www.facebook.com/groups/480387735467314/481360138703407/) para tirar suas dúvidas e compartilhar seus insights!
+Esperimente usar o nosso grupo [VITTA Cursos no Facebook](https://www.facebook.com/groups/480387735467314/481360138703407/) para tirar suas dúvidas e compartilhar seus insights!
 
 Para qualquer tópico envie um e-mail para [filipeforattini1@gmail.com](mailto:filipeforattini1@gmail.com)!
 
