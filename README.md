@@ -2,8 +2,13 @@
 
 # Web App Like a Boss
 
-Qualquer dúvida escreva aqui no nosso grupo [VITTA Cursos no Facebook](https://www.facebook.com/groups/480387735467314/481360138703407/).
-Ou envie um e-mail para filipeforattini1(a)gmail.com
+Nosso objetivo é que você construa seu primeiro web app em 6 aulas! Você topa o desafio? Nós também!
+
+## Comunicação:
+Para tirar dúvidas ou fazer perguntas sobre o conteúdo escreva aqui no nosso grupo [VITTA Cursos no Facebook](https://www.facebook.com/groups/480387735467314/481360138703407/).
+Ou envie um e-mail para filipeforattini1(a)gmail.com!
 
 [Estudantes ativos](https://github.com/vitta-health/vitta-cursos/network/members)
 (confirmaram presença usando pull request!)
+
+Não se esqueça de assinar a lista de presença!
