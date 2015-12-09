@@ -1,6 +1,6 @@
 ![VITTA](https://vitta.me/assets/img/icone_vitta.png "VITTA")
 
-# VITTA
+# VITTA Cursos
 
 Este é o repositório da VITTA de todos os cursos que já realizamos! Para acessar o conteúdo, escolha o branch referente ao curso e à sua turma!
 
