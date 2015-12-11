@@ -24,8 +24,6 @@ Selecione o branch de acordo com seu curso e adicione seu nome na lista de prese
 
 Nosso objetivo é que você construa seu primeiro web app em 6 aulas! Você topa o desafio? Nós também!
 
-[WebApp Like A Boss: UFU 2015-2](https://github.com/vitta-health/vitta-cursos/tree/webapp-ufu-2015-2)
-
 ## Histórico de Cursos:
 
-Em breve! :)
+[WebApp Like A Boss: UFU 2015-2](https://github.com/vitta-health/vitta-cursos/tree/webapp-ufu-2015-2)
